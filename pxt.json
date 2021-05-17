@@ -1,5 +1,5 @@
 {
-    "name": "Sender - distance (by signal strength)",
+    "name": "graph - distance (by signal strength)",
     "description": "",
     "dependencies": {
         "core": "*",
